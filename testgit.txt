@@ -1,3 +1,4 @@
 i'am luokp ,use git to do something
 modify something
 change a branch is fast
+Creating a NEW branch is quick & simple
